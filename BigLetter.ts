@@ -24,7 +24,7 @@
   const S = '/\/\''
   const T = '-|'
 
-  const U = '|_|'
+  const U = '|._.|'
   const V = '\./'
   const W ='\./\./'
 
