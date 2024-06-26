@@ -7,7 +7,7 @@
   const E = '|---'
   const F = '||--'
   const G = '\/|\/'
-  const H = '|--|'
+  const H = '|-|'
 
   const I = '|'
   const J = '|/\''
