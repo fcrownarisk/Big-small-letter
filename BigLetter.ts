@@ -1,4 +1,3 @@
- 
   const A = '/-\'' 
   const B = '||))'
   const C = '('
