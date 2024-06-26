@@ -1,7 +1,7 @@
- const a = '(|\''
- const b = '|)'
- const c = '('
- const d = '(|'
+const a = '(|\''
+const b = '|)'
+const c = '('
+const d = '(|'
 
 const e = '\/('
 const f = '-/|'
