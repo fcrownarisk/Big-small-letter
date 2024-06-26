@@ -7,3 +7,4 @@ abcdefgh.ts
 # every p Drane is equivalent according to sumeria civilization exit in Mesopotamia Plain about 4000 years ago
 Ancient Myth once said the God from different galaxy created human being,then the language began to merge formed braches date back to
 one of four ancient civilization
+# Therefore,we type the alphabet based on how the word looks like
