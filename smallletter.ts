@@ -6,7 +6,7 @@
 const e = '\/('
 const f = '-/|'
 const g = '(|/\''
-const h = '||/\|'
+const h = '|/\|'
 
 const i = '.|'
 const j = '.|/'
