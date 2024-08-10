@@ -3,7 +3,7 @@ const b = '|)'
 const c = '('
 const d = '(|'
 
-const e = '\/('
+const e = '-\/('
 const f = '-/|'
 const g = '(|/\''
 const h = '|/\|'
